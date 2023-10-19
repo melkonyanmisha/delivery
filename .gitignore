@@ -1,0 +1,8 @@
+# IDE files
+/.idea
+/.vscode
+
+# Composer
+/vendor
+
+.env

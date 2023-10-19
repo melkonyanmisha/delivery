@@ -1,0 +1,17 @@
+{
+    "name": "mish/delivery",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "melkonyanmisha",
+            "email": "melkonyan.misha@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
